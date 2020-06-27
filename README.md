@@ -16,6 +16,6 @@ There are two main challenges while working with these datasets:
 Because of these challenges, in this study, we focus on the comparative condition of a region to its previous condition. Every region in assigned the baseline. This baseline is defined based on the history of reports generated for that region. Using this baseline, we then decide if the changes in daily reports, shows a positive surge in the number of cases or not.
 
 # Project Structure:
-* [data-exploration-notebook](https://nbviewer.jupyter.org/github/abtkod/covid19/blob/master/data-exploration.ipynb)
-* [data-exploration-binder](https://mybinder.org/v2/gh/abtkod/covid19/4bef2d02647f22690c80ffc7506924c0d99950ed?filepath=data-exploration.ipynb)
+* [data-exploration-notebook](https://nbviewer.jupyter.org/github/abtkod/covid19/blob/master/data-exploration.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abtkod/covid19/master?filepath=data-exploration.ipynb)
 * [predictive-analysis-notebook](https://nbviewer.jupyter.org/github/abtkod/covid19/blob/master/predictive-analysis.ipynb)
